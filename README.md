@@ -1,2 +1,2 @@
-#Demo
+# Demo
 Practice JS for fun
